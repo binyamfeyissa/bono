@@ -1,0 +1,34 @@
+.sales-card {
+  background-color: #fcf0e4;
+  border-radius: 20px;
+  border: none;
+}
+.menu-card {
+  background-color: #ecf5e7;
+  border-radius: 20px;
+  border: none;
+}
+
+.order-card {
+  background-color: #ebf0fe;
+  border-radius: 20px;
+  border: none;
+}
+.transaction-card {
+  background-color: #ecf5f4;
+  border-radius: 20px;
+  border: none;
+}
+.make-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  gap: 10px;
+  width: 100%;
+  height: fit-content;
+  margin-bottom: 20px;
+}
+.make-grid div {
+  width: 98%;
+  height: auto;
+}

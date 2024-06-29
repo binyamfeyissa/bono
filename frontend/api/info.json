@@ -1,0 +1,59 @@
+{
+  "cards": [
+    {
+      "_id": 1,
+      "name": "Sales",
+      "icon": "bi bi-cart",
+      "amount": 145,
+      "percentage": 0.12,
+      "active": true
+    },
+    {
+      "_id": 2,
+      "name": "Revenue",
+      "icon": "bi bi-currency-dollar",
+      "amount": 3246,
+      "percentage": 0.08,
+      "active": false
+    }
+  ],
+  "news": [
+    {
+      "_id": 1,
+      "img": " .. /assets/items/news-1.jpg",
+      "title": "Nihil blanditiis at in nihil autem",
+      "subtitle": "Sit recusandae non aspernatur laboriosam. Quia enim eligendi sed",
+      "category": "abc"
+    },
+    {
+      "_id": 2,
+      "img": " .. /assets/items/news-2.jpg",
+      "title": "Quidem autem et impedit",
+      "subtitle": "Illo nemo neque maiores vitae officiis cum eum turos elan dries",
+      "category": "abc"
+    }
+  ],
+  "topselling": [
+    {
+      "_id": 1,
+      "preview": " .. /assets/items/product-1.jpg",
+      "name": "Ut inventore ipsa voluptas nulla",
+      "price": 64,
+      "sold": 124
+    },
+    {
+      "id": 2,
+      "preview": " .. /assets/items/product-2.jpg",
+      "name": "Exercitationem similique doloremque",
+      "price": 46,
+      "sold": 98
+    },
+    {
+      "_id": 3,
+      "preview": " .. /assets/items/product-3.jpg",
+      "name": "Doloribus nisi exercitationem",
+      "price": 59,
+      "sold": 74
+    }
+  ]
+}
